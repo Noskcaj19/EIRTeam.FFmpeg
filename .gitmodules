@@ -3,4 +3,4 @@
 	url = https://github.com/godotengine/godot-cpp.git
 [submodule "ffmpeg-kit"]
 	path = ffmpeg-kit
-	url = https://github.com/arthenica/ffmpeg-kit
+	url = https://github.com/arthenica/ffmpeg-kit/
